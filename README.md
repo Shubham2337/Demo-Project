@@ -1,5 +1,6 @@
 # Demo-Project
 This is my demo project for learning github
 <br>
-Name: Shubham Chaugule
-Nic_name = Oxycoder
+Name: Shubham Chaugule(Oxypro)
+<br>
+Nic_name = Oxycoder(CodewithShubham)
